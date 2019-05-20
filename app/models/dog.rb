@@ -8,7 +8,7 @@ class Dog
     @age = age
     #@@all << self
   end 
-  def self.all
+  def self.all.count
     
   end 
   
